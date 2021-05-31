@@ -1,0 +1,6 @@
+exit: true
+extension:
+  - 'js'
+  - 'ts'
+timeout: "10s"
+no-timeout: true
